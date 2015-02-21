@@ -16,7 +16,7 @@ A Vagrant Box for Hyper-v provider with a full array of LAMP Stack features to g
 ### On windows 8
 
 * Download and Install Vagrant
-* [Activate Hyper-v on windows 8](http://windows.microsoft.com/fr-fr/windows-8/hyper-v-run-virtual-machines)
+* [Activate Hyper-v on windows 8](http://windows.microsoft.com/en-us/windows-8/hyper-v-run-virtual-machines)
 * [Setting up internet access for Hyper-V with NAT in Windows 8](http://blog.areflyen.no/2012/10/10/setting-up-internet-access-for-hyper-v-with-nat-in-windows-8/)
 * Clone this Repository
 * Run Vagrant Up
